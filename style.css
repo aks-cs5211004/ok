@@ -1,0 +1,23 @@
+body{
+    background:url("Desktop\img.JPG");
+}
+
+.geeks
+{
+color: rgb(3, 1, 1);
+background-color:rgb(52, 148, 212)
+margin:1px;
+font-size:60px;
+text-align:centre;
+}
+div 
+{
+color:black;
+font-size:45px;
+margin:2px;
+font-family:'Source Serif 4', sans-serif;
+text-align:center;
+}
+embed
+{height:auto
+width:auto}
